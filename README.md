@@ -7,3 +7,5 @@ This repository contains a Python project for constructing a dust map of the Mil
 ## Installation
 
 Ensure you have Python installed and then set up your environment by installing the necessary packages
+
+## Refer to Creating_Dust_Map_of_the_Milky_Way.pdf for a full report on the project
